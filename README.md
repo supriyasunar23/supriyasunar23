@@ -9,8 +9,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Great+Vibes&size=52&center=true&vCenter=true&width=700&height=80&color=000000&duration=4000&lines=Hi+There!+💕;+I'm+Supriya+Sunar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Great+Vibes&size=52&center=true&vCenter=true&width=700&height=80&color=000000&duration=4000&lines=Hi+There!+%E2%99%A1;+I'm+Supriya+Sunar!;" />
 </h1>
 
 ### A Second-year Computer Science student studying at the University of Surrey!
-
