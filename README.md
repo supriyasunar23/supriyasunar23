@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=supriyasunar23&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 <p align="center">
-  <img src="C:\Users\ss05452\OneDrive - University of Surrey\Desktop\banner.png" alt="Banner" />
+  <img src="C:\Users\ss05452\OneDrive - University of Surrey\Desktop\banner.png.gif" alt="Banner" />
 </p>
 
 
