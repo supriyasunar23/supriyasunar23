@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/supriyasunar23/count.svg" alt="Visitor's Count" />
+</div>
+
 <!--
 **supriyasunar23/supriyasunar23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
