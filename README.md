@@ -10,7 +10,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=48&center=true&vCenter=true&width=600&height=70&color=000000&duration=4000&lines=Hi+There!+👋;+I'm+Supriya+Sunar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Great+Vibes&size=48&center=true&vCenter=true&width=600&height=70&color=000000&duration=4000&lines=Hi+There!+👋;+I'm+Supriya+Sunar!;" />
 </h1>
 
 ### A Second-year Computer Science student studying at the University of Surrey!
