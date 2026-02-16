@@ -41,13 +41,4 @@
 
 <hr>
 
-## ⚡️ Stats
 
-<br>
-
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=supriyasunar23&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en"  />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=supriyasunar23&theme=transparent&count_private=true&border_radius=10&locale=en" 
-</div>
-
-<hr>
